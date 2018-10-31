@@ -1,0 +1,2369 @@
+<?xml version="1.0" ?>
+<xdd>
+    <llp>
+        <glyticket layer="Blade" color="5" name="36-L" rot_name="0.000000" num="360" sx="1" iPosArray="5" ModelFolder="C:\CNDD\SBL\1464" TicketName="KS01_360.xge" IdNesting="7" IdPosdNesting="9">
+            <profile size="80" layer="Blade" color="5" name="36-L" rot_name="0.000000">
+                <denv>
+                    <LAYER_FILE_DXF val="Blade" />
+                    <LINE_TYPE_DXF val="BYLAYER" />
+                    <IS_CLOSED_POLY val="1" />
+                    <tool_type val="Blade" />
+                    <SBL_TOOL_SELECT val="0" />
+                    <tool_name val="Coltello esterno" />
+                    <ModelFolder val="C:\CNDD\SBL\1464" />
+                    <TICKET_NAME val="KS01_360.xge" />
+                    <TICKET_TAGLIA val="36" />
+                    <VECT_POS_INDEX val="5" />
+                    <ORIG_ANG val="0.6442274910" />
+                    <KEY val="12" />
+                    <PROFILE_COUNTER val="9" />
+                </denv>
+                <p0 x="871.887071" y="901.328698" z="0.000000" l1="0" l2="0" c="0" />
+                <ebase type="seg" ref="0">
+                    <p2 x="876.875288" y="903.772581" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="882.021525" y="905.998920" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="887.298572" y="907.976339" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="892.679219" y="909.673463" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="898.136257" y="911.058916" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="903.642476" y="912.101322" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="909.785083" y="912.819051" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="917.250194" y="912.976696" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="930.852674" y="911.684209" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="943.054138" y="911.449884" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="969.046813" y="911.909788" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1008.921332" y="913.647900" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1028.178777" y="914.504567" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1034.902519" y="914.432034" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1040.447755" y="913.884809" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1045.917499" y="912.822698" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1054.655048" y="910.326818" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1061.886658" y="908.303377" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1069.722157" y="907.085701" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1078.824224" y="906.243331" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1096.525956" y="905.553437" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1125.048448" y="904.667797" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1127.122961" y="904.568397" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1127.086640" y="902.061757" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1126.821701" y="886.137952" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1126.817988" y="873.191750" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1100.988630" y="872.873391" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1072.066981" y="872.434912" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1064.947731" y="871.950736" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1058.451359" y="870.912556" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1044.361219" y="867.261027" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1039.406476" y="866.504311" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1032.663524" y="866.163703" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="999.858151" y="866.772142" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="979.053254" y="866.644396" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="964.939158" y="865.972861" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="956.480831" y="864.997519" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="948.621551" y="863.503774" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="942.102875" y="861.404264" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="937.454215" y="859.246586" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="932.894910" y="856.289686" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="928.701671" y="852.652103" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="921.485977" y="845.236919" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="917.960136" y="842.406705" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="914.950039" y="840.458735" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="911.799779" y="838.741290" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="908.540485" y="837.236379" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="905.203284" y="835.926011" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="901.104999" y="834.582813" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="896.931230" y="833.488210" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="892.699029" y="832.638635" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="888.425448" y="832.030526" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="882.692444" y="831.589164" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="875.582597" y="831.647367" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="866.326920" y="832.394762" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="859.481946" y="833.410540" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="851.884342" y="835.124905" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="848.174418" y="836.311257" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="844.572735" y="837.787029" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="842.259838" y="838.959935" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="840.045066" y="840.310650" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="837.963438" y="841.853963" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="836.049970" y="843.604664" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="833.679921" y="846.488919" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="831.854799" y="849.744646" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="830.521975" y="853.751485" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="830.014402" y="856.826355" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="829.908309" y="860.317240" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="830.090531" y="862.013755" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="830.548161" y="864.020645" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="831.488527" y="866.595260" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="832.732585" y="869.047227" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="834.592290" y="871.928161" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="836.644437" y="874.582362" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="839.688682" y="877.958388" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="842.969987" y="881.140822" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="846.362898" y="884.121577" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="854.567730" y="890.563362" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="863.305377" y="896.448202" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="871.887071" y="901.328698" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+            </profile>
+        </glyticket>
+        <glyticket layer="0" color="0" name="36-L" rot_name="-180.000000" num="360" sx="1" iPosArray="5" ModelFolder="C:\CNDD\SBL\1464" TicketName="KS01_360.xge" IdNesting="7" IdPosdNesting="8">
+            <denv>
+                <idCopia val="1" />
+            </denv>
+            <profile size="80" layer="0" color="0" name="36-L" rot_name="-180.000000">
+                <denv>
+                    <LAYER_FILE_DXF val="Blade" />
+                    <LINE_TYPE_DXF val="BYLAYER" />
+                    <IS_CLOSED_POLY val="1" />
+                    <tool_type val="Blade" />
+                    <SBL_TOOL_SELECT val="0" />
+                    <tool_name val="Coltello esterno" />
+                    <ModelFolder val="C:\CNDD\SBL\1464" />
+                    <TICKET_NAME val="KS01_360.xge" />
+                    <TICKET_TAGLIA val="36" />
+                    <VECT_POS_INDEX val="5" />
+                    <ORIG_ANG val="0.6442274910" />
+                    <KEY val="13" />
+                    <PROFILE_COUNTER val="8" />
+                </denv>
+                <p0 x="1102.305569" y="802.850713" z="0.000000" l1="0" l2="0" c="0" />
+                <ebase type="seg" ref="0">
+                    <p2 x="1097.317352" y="800.406830" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1092.171115" y="798.180491" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1086.894068" y="796.203072" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1081.513421" y="794.505948" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1076.056383" y="793.120495" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1070.550164" y="792.078089" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1064.407557" y="791.360360" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1056.942446" y="791.202715" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1043.339966" y="792.495202" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1031.138502" y="792.729527" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1005.145827" y="792.269623" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="965.271308" y="790.531511" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="946.013863" y="789.674844" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="939.290121" y="789.747377" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="933.744885" y="790.294602" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="928.275141" y="791.356713" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="919.537592" y="793.852593" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="912.305982" y="795.876034" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="904.470483" y="797.093710" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="895.368416" y="797.936080" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="877.666684" y="798.625974" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="849.144192" y="799.511614" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="847.069679" y="799.611014" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="847.106000" y="802.117654" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="847.370939" y="818.041459" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="847.374652" y="830.987661" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="873.204010" y="831.306020" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="902.125659" y="831.744499" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="909.244909" y="832.228675" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="915.741281" y="833.266855" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="929.831421" y="836.918384" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="934.786164" y="837.675100" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="941.529116" y="838.015708" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="974.334489" y="837.407269" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="995.139386" y="837.535015" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1009.253482" y="838.206550" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1017.711809" y="839.181892" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1025.571089" y="840.675637" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1032.089765" y="842.775147" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1036.738425" y="844.932825" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1041.297730" y="847.889725" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1045.490969" y="851.527308" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1052.706663" y="858.942492" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1056.232504" y="861.772706" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1059.242601" y="863.720676" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1062.392861" y="865.438121" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1065.652155" y="866.943032" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1068.989356" y="868.253400" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1073.087641" y="869.596598" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1077.261410" y="870.691201" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1081.493611" y="871.540776" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1085.767192" y="872.148885" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1091.500196" y="872.590247" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1098.610043" y="872.532044" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1107.865720" y="871.784649" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1114.710694" y="870.768871" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1122.308298" y="869.054506" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1126.018222" y="867.868154" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1129.619905" y="866.392382" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1131.932802" y="865.219476" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1134.147574" y="863.868761" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1136.229202" y="862.325448" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1138.142670" y="860.574747" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1140.512719" y="857.690492" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1142.337841" y="854.434765" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1143.670665" y="850.427926" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1144.178238" y="847.353056" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1144.284331" y="843.862171" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1144.102109" y="842.165656" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1143.644479" y="840.158766" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1142.704113" y="837.584151" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1141.460055" y="835.132184" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1139.600350" y="832.251250" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1137.548203" y="829.597049" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1134.503958" y="826.221023" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1131.222653" y="823.038589" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1127.829742" y="820.057834" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1119.624910" y="813.616049" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1110.887263" y="807.731209" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1102.305569" y="802.850713" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+            </profile>
+        </glyticket>
+        <glyticket layer="0" color="0" name="36-L" rot_name="-180.000000" num="360" sx="1" iPosArray="5" ModelFolder="C:\CNDD\SBL\1464" TicketName="KS01_360.xge" IdNesting="7" IdPosdNesting="7">
+            <denv>
+                <idCopia val="1" />
+            </denv>
+            <profile size="80" layer="0" color="0" name="36-L" rot_name="-180.000000">
+                <denv>
+                    <LAYER_FILE_DXF val="Blade" />
+                    <LINE_TYPE_DXF val="BYLAYER" />
+                    <IS_CLOSED_POLY val="1" />
+                    <tool_type val="Blade" />
+                    <SBL_TOOL_SELECT val="0" />
+                    <tool_name val="Coltello esterno" />
+                    <ModelFolder val="C:\CNDD\SBL\1464" />
+                    <TICKET_NAME val="KS01_360.xge" />
+                    <TICKET_TAGLIA val="36" />
+                    <VECT_POS_INDEX val="5" />
+                    <ORIG_ANG val="0.6442274910" />
+                    <KEY val="16" />
+                    <PROFILE_COUNTER val="7" />
+                </denv>
+                <p0 x="1104.187168" y="712.929097" z="0.000000" l1="0" l2="0" c="0" />
+                <ebase type="seg" ref="0">
+                    <p2 x="1099.198951" y="710.485214" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1094.052714" y="708.258875" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1088.775667" y="706.281456" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1083.395020" y="704.584332" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1077.937982" y="703.198879" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1072.431763" y="702.156473" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1066.289156" y="701.438744" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1058.824045" y="701.281099" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1045.221565" y="702.573586" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1033.020101" y="702.807911" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1007.027426" y="702.348007" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="967.152907" y="700.609895" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="947.895462" y="699.753228" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="941.171720" y="699.825761" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="935.626484" y="700.372986" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="930.156740" y="701.435097" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="921.419191" y="703.930977" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="914.187581" y="705.954418" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="906.352082" y="707.172094" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="897.250015" y="708.014464" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="879.548283" y="708.704358" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="851.025791" y="709.589998" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="848.951278" y="709.689398" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="848.987599" y="712.196038" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="849.252538" y="728.119843" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="849.256251" y="741.066045" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="875.085609" y="741.384404" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="904.007258" y="741.822883" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="911.126508" y="742.307059" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="917.622880" y="743.345239" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="931.713020" y="746.996768" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="936.667763" y="747.753484" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="943.410715" y="748.094092" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="976.216088" y="747.485653" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="997.020985" y="747.613399" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1011.135081" y="748.284934" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1019.593408" y="749.260276" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1027.452688" y="750.754021" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1033.971364" y="752.853531" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1038.620024" y="755.011209" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1043.179329" y="757.968109" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1047.372568" y="761.605692" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1054.588262" y="769.020876" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1058.114103" y="771.851090" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1061.124200" y="773.799060" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1064.274460" y="775.516505" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1067.533754" y="777.021416" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1070.870955" y="778.331784" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1074.969240" y="779.674982" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1079.143009" y="780.769585" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1083.375210" y="781.619160" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1087.648791" y="782.227269" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1093.381795" y="782.668631" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1100.491642" y="782.610428" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1109.747319" y="781.863033" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1116.592293" y="780.847255" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1124.189897" y="779.132890" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1127.899821" y="777.946538" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1131.501504" y="776.470766" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1133.814401" y="775.297860" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1136.029173" y="773.947145" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1138.110801" y="772.403832" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1140.024269" y="770.653131" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1142.394318" y="767.768876" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1144.219440" y="764.513149" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1145.552264" y="760.506310" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1146.059837" y="757.431440" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1146.165930" y="753.940555" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1145.983708" y="752.244040" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1145.526078" y="750.237150" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1144.585712" y="747.662535" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1143.341654" y="745.210568" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1141.481949" y="742.329634" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1139.429802" y="739.675433" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1136.385557" y="736.299407" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1133.104252" y="733.116973" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1129.711341" y="730.136218" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1121.506509" y="723.694433" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1112.768862" y="717.809593" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1104.187168" y="712.929097" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+            </profile>
+        </glyticket>
+        <glyticket layer="0" color="0" name="36-L" rot_name="-180.000000" num="360" sx="1" iPosArray="5" ModelFolder="C:\CNDD\SBL\1464" TicketName="KS01_360.xge" IdNesting="7" IdPosdNesting="6">
+            <denv>
+                <idCopia val="1" />
+            </denv>
+            <profile size="80" layer="0" color="0" name="36-L" rot_name="-180.000000">
+                <denv>
+                    <LAYER_FILE_DXF val="Blade" />
+                    <LINE_TYPE_DXF val="BYLAYER" />
+                    <IS_CLOSED_POLY val="1" />
+                    <tool_type val="Blade" />
+                    <SBL_TOOL_SELECT val="0" />
+                    <tool_name val="Coltello esterno" />
+                    <ModelFolder val="C:\CNDD\SBL\1464" />
+                    <TICKET_NAME val="KS01_360.xge" />
+                    <TICKET_TAGLIA val="36" />
+                    <VECT_POS_INDEX val="5" />
+                    <ORIG_ANG val="0.6442274910" />
+                    <KEY val="17" />
+                    <PROFILE_COUNTER val="6" />
+                </denv>
+                <p0 x="1118.835606" y="638.222066" z="0.000000" l1="0" l2="0" c="0" />
+                <ebase type="seg" ref="0">
+                    <p2 x="1113.847389" y="635.778183" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1108.701152" y="633.551844" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1103.424105" y="631.574425" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1098.043458" y="629.877301" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1092.586420" y="628.491848" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1087.080201" y="627.449442" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1080.937594" y="626.731713" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1073.472483" y="626.574068" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1059.870003" y="627.866555" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1047.668539" y="628.100880" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1021.675864" y="627.640976" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="981.801345" y="625.902864" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="962.543900" y="625.046197" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="955.820158" y="625.118730" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="950.274922" y="625.665955" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="944.805178" y="626.728066" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="936.067629" y="629.223946" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="928.836019" y="631.247387" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="921.000520" y="632.465063" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="911.898453" y="633.307433" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="894.196721" y="633.997327" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="865.674229" y="634.882967" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="863.599716" y="634.982367" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="863.636037" y="637.489007" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="863.900976" y="653.412812" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="863.904689" y="666.359014" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="889.734047" y="666.677373" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="918.655696" y="667.115852" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="925.774946" y="667.600028" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="932.271318" y="668.638208" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="946.361458" y="672.289737" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="951.316201" y="673.046453" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="958.059153" y="673.387061" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="990.864526" y="672.778622" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1011.669423" y="672.906368" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1025.783519" y="673.577903" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1034.241846" y="674.553245" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1042.101126" y="676.046990" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1048.619802" y="678.146500" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1053.268462" y="680.304178" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1057.827767" y="683.261078" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1062.021006" y="686.898661" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1069.236700" y="694.313845" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1072.762541" y="697.144059" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1075.772638" y="699.092029" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1078.922898" y="700.809474" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1082.182192" y="702.314385" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1085.519393" y="703.624753" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1089.617678" y="704.967951" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1093.791447" y="706.062554" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1098.023648" y="706.912129" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1102.297229" y="707.520238" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1108.030233" y="707.961600" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1115.140080" y="707.903397" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1124.395757" y="707.156002" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1131.240731" y="706.140224" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1138.838335" y="704.425859" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1142.548259" y="703.239507" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1146.149942" y="701.763735" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1148.462839" y="700.590829" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1150.677611" y="699.240114" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1152.759239" y="697.696801" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1154.672707" y="695.946100" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1157.042756" y="693.061845" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1158.867878" y="689.806118" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1160.200702" y="685.799279" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1160.708275" y="682.724409" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1160.814368" y="679.233524" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1160.632146" y="677.537009" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1160.174516" y="675.530119" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1159.234150" y="672.955504" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1157.990092" y="670.503537" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1156.130387" y="667.622603" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1154.078240" y="664.968402" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1151.033995" y="661.592376" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1147.752690" y="658.409942" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1144.359779" y="655.429187" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1136.154947" y="648.987402" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1127.417300" y="643.102562" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1118.835606" y="638.222066" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+            </profile>
+        </glyticket>
+        <glyticket layer="0" color="0" name="36-L" rot_name="-180.000000" num="360" sx="1" iPosArray="5" ModelFolder="C:\CNDD\SBL\1464" TicketName="KS01_360.xge" IdNesting="7" IdPosdNesting="5">
+            <denv>
+                <idCopia val="1" />
+            </denv>
+            <profile size="80" layer="0" color="0" name="36-L" rot_name="-180.000000">
+                <denv>
+                    <LAYER_FILE_DXF val="Blade" />
+                    <LINE_TYPE_DXF val="BYLAYER" />
+                    <IS_CLOSED_POLY val="1" />
+                    <tool_type val="Blade" />
+                    <SBL_TOOL_SELECT val="0" />
+                    <tool_name val="Coltello esterno" />
+                    <ModelFolder val="C:\CNDD\SBL\1464" />
+                    <TICKET_NAME val="KS01_360.xge" />
+                    <TICKET_TAGLIA val="36" />
+                    <VECT_POS_INDEX val="5" />
+                    <ORIG_ANG val="0.6442274910" />
+                    <KEY val="18" />
+                    <PROFILE_COUNTER val="5" />
+                </denv>
+                <p0 x="1120.300450" y="556.190817" z="0.000000" l1="0" l2="0" c="0" />
+                <ebase type="seg" ref="0">
+                    <p2 x="1115.312233" y="553.746934" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1110.165996" y="551.520595" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1104.888949" y="549.543176" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1099.508302" y="547.846052" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1094.051264" y="546.460599" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1088.545045" y="545.418193" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1082.402438" y="544.700464" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1074.937327" y="544.542819" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1061.334847" y="545.835306" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1049.133383" y="546.069631" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1023.140708" y="545.609727" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="983.266189" y="543.871615" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="964.008744" y="543.014948" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="957.285002" y="543.087481" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="951.739766" y="543.634706" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="946.270022" y="544.696817" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="937.532473" y="547.192697" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="930.300863" y="549.216138" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="922.465364" y="550.433814" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="913.363297" y="551.276184" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="895.661565" y="551.966078" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="867.139073" y="552.851718" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="865.064560" y="552.951118" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="865.100881" y="555.457758" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="865.365820" y="571.381563" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="865.369533" y="584.327765" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="891.198891" y="584.646124" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="920.120540" y="585.084603" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="927.239790" y="585.568779" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="933.736162" y="586.606959" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="947.826302" y="590.258488" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="952.781045" y="591.015204" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="959.523997" y="591.355812" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="992.329370" y="590.747373" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1013.134267" y="590.875119" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1027.248363" y="591.546654" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1035.706690" y="592.521996" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1043.565970" y="594.015741" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1050.084646" y="596.115251" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1054.733306" y="598.272929" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1059.292611" y="601.229829" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1063.485850" y="604.867412" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1070.701544" y="612.282596" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1074.227385" y="615.112810" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1077.237482" y="617.060780" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1080.387742" y="618.778225" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1083.647036" y="620.283136" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1086.984237" y="621.593504" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1091.082522" y="622.936702" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1095.256291" y="624.031305" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1099.488492" y="624.880880" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1103.762073" y="625.488989" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1109.495077" y="625.930351" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1116.604924" y="625.872148" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1125.860601" y="625.124753" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1132.705575" y="624.108975" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1140.303179" y="622.394610" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1144.013103" y="621.208258" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1147.614786" y="619.732486" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1149.927683" y="618.559580" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1152.142455" y="617.208865" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1154.224083" y="615.665552" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1156.137551" y="613.914851" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1158.507600" y="611.030596" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1160.332722" y="607.774869" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1161.665546" y="603.768030" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1162.173119" y="600.693160" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1162.279212" y="597.202275" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1162.096990" y="595.505760" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1161.639360" y="593.498870" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1160.698994" y="590.924255" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1159.454936" y="588.472288" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1157.595231" y="585.591354" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1155.543084" y="582.937153" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1152.498839" y="579.561127" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1149.217534" y="576.378693" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1145.824623" y="573.397938" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1137.619791" y="566.956153" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1128.882144" y="561.071313" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1120.300450" y="556.190817" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+            </profile>
+        </glyticket>
+        <glyticket layer="0" color="0" name="36-L" rot_name="-180.000000" num="360" sx="1" iPosArray="5" ModelFolder="C:\CNDD\SBL\1464" TicketName="KS01_360.xge" IdNesting="7" IdPosdNesting="4">
+            <denv>
+                <idCopia val="1" />
+            </denv>
+            <profile size="80" layer="0" color="0" name="36-L" rot_name="-180.000000">
+                <denv>
+                    <LAYER_FILE_DXF val="Blade" />
+                    <LINE_TYPE_DXF val="BYLAYER" />
+                    <IS_CLOSED_POLY val="1" />
+                    <tool_type val="Blade" />
+                    <SBL_TOOL_SELECT val="0" />
+                    <tool_name val="Coltello esterno" />
+                    <ModelFolder val="C:\CNDD\SBL\1464" />
+                    <TICKET_NAME val="KS01_360.xge" />
+                    <TICKET_TAGLIA val="36" />
+                    <VECT_POS_INDEX val="5" />
+                    <ORIG_ANG val="0.6442274910" />
+                    <KEY val="19" />
+                    <PROFILE_COUNTER val="4" />
+                </denv>
+                <p0 x="1130.554356" y="474.159568" z="0.000000" l1="0" l2="0" c="0" />
+                <ebase type="seg" ref="0">
+                    <p2 x="1125.566139" y="471.715685" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1120.419902" y="469.489346" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1115.142855" y="467.511927" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1109.762208" y="465.814803" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1104.305170" y="464.429350" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1098.798951" y="463.386944" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1092.656344" y="462.669215" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1085.191233" y="462.511570" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1071.588753" y="463.804057" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1059.387289" y="464.038382" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1033.394614" y="463.578478" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="993.520095" y="461.840366" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="974.262650" y="460.983699" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="967.538908" y="461.056232" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="961.993672" y="461.603457" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="956.523928" y="462.665568" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="947.786379" y="465.161448" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="940.554769" y="467.184889" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="932.719270" y="468.402565" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="923.617203" y="469.244935" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="905.915471" y="469.934829" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="877.392979" y="470.820469" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="875.318466" y="470.919869" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="875.354787" y="473.426509" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="875.619726" y="489.350314" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="875.623439" y="502.296516" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="901.452797" y="502.614875" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="930.374446" y="503.053354" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="937.493696" y="503.537530" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="943.990068" y="504.575710" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="958.080208" y="508.227239" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="963.034951" y="508.983955" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="969.777903" y="509.324563" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1002.583276" y="508.716124" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1023.388173" y="508.843870" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1037.502269" y="509.515405" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1045.960596" y="510.490747" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1053.819876" y="511.984492" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1060.338552" y="514.084002" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1064.987212" y="516.241680" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1069.546517" y="519.198580" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1073.739756" y="522.836163" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1080.955450" y="530.251347" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1084.481291" y="533.081561" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1087.491388" y="535.029531" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1090.641648" y="536.746976" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1093.900942" y="538.251887" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1097.238143" y="539.562255" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1101.336428" y="540.905453" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1105.510197" y="542.000056" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1109.742398" y="542.849631" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1114.015979" y="543.457740" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1119.748983" y="543.899102" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1126.858830" y="543.840899" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1136.114507" y="543.093504" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1142.959481" y="542.077726" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1150.557085" y="540.363361" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1154.267009" y="539.177009" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1157.868692" y="537.701237" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1160.181589" y="536.528331" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1162.396361" y="535.177616" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1164.477989" y="533.634303" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1166.391457" y="531.883602" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1168.761506" y="528.999347" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1170.586628" y="525.743620" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1171.919452" y="521.736781" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1172.427025" y="518.661911" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1172.533118" y="515.171026" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1172.350896" y="513.474511" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1171.893266" y="511.467621" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1170.952900" y="508.893006" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1169.708842" y="506.441039" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1167.849137" y="503.560105" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1165.796990" y="500.905904" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1162.752745" y="497.529878" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1159.471440" y="494.347444" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1156.078529" y="491.366689" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1147.873697" y="484.924904" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1139.136050" y="479.040064" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1130.554356" y="474.159568" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+            </profile>
+        </glyticket>
+        <glyticket layer="0" color="0" name="36-L" rot_name="-180.000000" num="360" sx="1" iPosArray="5" ModelFolder="C:\CNDD\SBL\1464" TicketName="KS01_360.xge" IdNesting="7" IdPosdNesting="3">
+            <denv>
+                <idCopia val="1" />
+            </denv>
+            <profile size="80" layer="0" color="0" name="36-L" rot_name="-180.000000">
+                <denv>
+                    <LAYER_FILE_DXF val="Blade" />
+                    <LINE_TYPE_DXF val="BYLAYER" />
+                    <IS_CLOSED_POLY val="1" />
+                    <tool_type val="Blade" />
+                    <SBL_TOOL_SELECT val="0" />
+                    <tool_name val="Coltello esterno" />
+                    <ModelFolder val="C:\CNDD\SBL\1464" />
+                    <TICKET_NAME val="KS01_360.xge" />
+                    <TICKET_TAGLIA val="36" />
+                    <VECT_POS_INDEX val="5" />
+                    <ORIG_ANG val="0.6442274910" />
+                    <KEY val="20" />
+                    <PROFILE_COUNTER val="3" />
+                </denv>
+                <p0 x="1129.568341" y="396.672124" z="0.000000" l1="0" l2="0" c="0" />
+                <ebase type="seg" ref="0">
+                    <p2 x="1124.580124" y="394.228241" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1119.433887" y="392.001902" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1114.156840" y="390.024483" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1108.776193" y="388.327359" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1103.319155" y="386.941906" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1097.812936" y="385.899500" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1091.670329" y="385.181771" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1084.205218" y="385.024126" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1070.602738" y="386.316613" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1058.401274" y="386.550938" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1032.408599" y="386.091034" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="992.534080" y="384.352922" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="973.276635" y="383.496255" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="966.552893" y="383.568788" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="961.007657" y="384.116013" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="955.537913" y="385.178124" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="946.800364" y="387.674004" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="939.568754" y="389.697445" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="931.733255" y="390.915121" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="922.631188" y="391.757491" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="904.929456" y="392.447385" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="876.406964" y="393.333025" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="874.332451" y="393.432425" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="874.368772" y="395.939065" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="874.633711" y="411.862870" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="874.637424" y="424.809072" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="900.466782" y="425.127431" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="929.388431" y="425.565910" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="936.507681" y="426.050086" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="943.004053" y="427.088266" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="957.094193" y="430.739795" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="962.048936" y="431.496511" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="968.791888" y="431.837119" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1001.597261" y="431.228680" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1022.402158" y="431.356426" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1036.516254" y="432.027961" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1044.974581" y="433.003303" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1052.833861" y="434.497048" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1059.352537" y="436.596558" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1064.001197" y="438.754236" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1068.560502" y="441.711136" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1072.753741" y="445.348719" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1079.969435" y="452.763903" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1083.495276" y="455.594117" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1086.505373" y="457.542087" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1089.655633" y="459.259532" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1092.914927" y="460.764443" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1096.252128" y="462.074811" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1100.350413" y="463.418009" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1104.524182" y="464.512612" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1108.756383" y="465.362187" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1113.029964" y="465.970296" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1118.762968" y="466.411658" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1125.872815" y="466.353455" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1135.128492" y="465.606060" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1141.973466" y="464.590282" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1149.571070" y="462.875917" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1153.280994" y="461.689565" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1156.882677" y="460.213793" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1159.195574" y="459.040887" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1161.410346" y="457.690172" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1163.491974" y="456.146859" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1165.405442" y="454.396158" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1167.775491" y="451.511903" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1169.600613" y="448.256176" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1170.933437" y="444.249337" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1171.441010" y="441.174467" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1171.547103" y="437.683582" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1171.364881" y="435.987067" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1170.907251" y="433.980177" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1169.966885" y="431.405562" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1168.722827" y="428.953595" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1166.863122" y="426.072661" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1164.810975" y="423.418460" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1161.766730" y="420.042434" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1158.485425" y="416.860000" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1155.092514" y="413.879245" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1146.887682" y="407.437460" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1138.150035" y="401.552620" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1129.568341" y="396.672124" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+            </profile>
+        </glyticket>
+        <glyticket layer="0" color="0" name="36-L" rot_name="-180.000000" num="360" sx="1" iPosArray="5" ModelFolder="C:\CNDD\SBL\1464" TicketName="KS01_360.xge" IdNesting="7" IdPosdNesting="2">
+            <denv>
+                <idCopia val="1" />
+            </denv>
+            <profile size="80" layer="0" color="0" name="36-L" rot_name="-180.000000">
+                <denv>
+                    <LAYER_FILE_DXF val="Blade" />
+                    <LINE_TYPE_DXF val="BYLAYER" />
+                    <IS_CLOSED_POLY val="1" />
+                    <tool_type val="Blade" />
+                    <SBL_TOOL_SELECT val="0" />
+                    <tool_name val="Coltello esterno" />
+                    <ModelFolder val="C:\CNDD\SBL\1464" />
+                    <TICKET_NAME val="KS01_360.xge" />
+                    <TICKET_TAGLIA val="36" />
+                    <VECT_POS_INDEX val="5" />
+                    <ORIG_ANG val="0.6442274910" />
+                    <KEY val="28" />
+                    <PROFILE_COUNTER val="2" />
+                </denv>
+                <p0 x="1144.148374" y="323.617876" z="0.000000" l1="0" l2="0" c="0" />
+                <ebase type="seg" ref="0">
+                    <p2 x="1139.160157" y="321.173993" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1134.013920" y="318.947654" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1128.736873" y="316.970235" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1123.356226" y="315.273111" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1117.899188" y="313.887658" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1112.392969" y="312.845252" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1106.250362" y="312.127523" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1098.785251" y="311.969878" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1085.182771" y="313.262365" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1072.981307" y="313.496690" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1046.988632" y="313.036786" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1007.114113" y="311.298674" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="987.856668" y="310.442007" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="981.132926" y="310.514540" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="975.587690" y="311.061765" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="970.117946" y="312.123876" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="961.380397" y="314.619756" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="954.148787" y="316.643197" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="946.313288" y="317.860873" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="937.211221" y="318.703243" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="919.509489" y="319.393137" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="890.986997" y="320.278777" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="888.912484" y="320.378177" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="888.948805" y="322.884817" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="889.213744" y="338.808622" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="889.217457" y="351.754824" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="915.046815" y="352.073183" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="943.968464" y="352.511662" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="951.087714" y="352.995838" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="957.584086" y="354.034018" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="971.674226" y="357.685547" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="976.628969" y="358.442263" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="983.371921" y="358.782871" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1016.177294" y="358.174432" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1036.982191" y="358.302178" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1051.096287" y="358.973713" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1059.554614" y="359.949055" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1067.413894" y="361.442800" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1073.932570" y="363.542310" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1078.581230" y="365.699988" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1083.140535" y="368.656888" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1087.333774" y="372.294471" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1094.549468" y="379.709655" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1098.075309" y="382.539869" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1101.085406" y="384.487839" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1104.235666" y="386.205284" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1107.494960" y="387.710195" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1110.832161" y="389.020563" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1114.930446" y="390.363761" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1119.104215" y="391.458364" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1123.336416" y="392.307939" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1127.609997" y="392.916048" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1133.343001" y="393.357410" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1140.452848" y="393.299207" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1149.708525" y="392.551812" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1156.553499" y="391.536034" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1164.151103" y="389.821669" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1167.861027" y="388.635317" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1171.462710" y="387.159545" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1173.775607" y="385.986639" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1175.990379" y="384.635924" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1178.072007" y="383.092611" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1179.985475" y="381.341910" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1182.355524" y="378.457655" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1184.180646" y="375.201928" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1185.513470" y="371.195089" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1186.021043" y="368.120219" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1186.127136" y="364.629334" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1185.944914" y="362.932819" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1185.487284" y="360.925929" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1184.546918" y="358.351314" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1183.302860" y="355.899347" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1181.443155" y="353.018413" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1179.391008" y="350.364212" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1176.346763" y="346.988186" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1173.065458" y="343.805752" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1169.672547" y="340.824997" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1161.467715" y="334.383212" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1152.730068" y="328.498372" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1144.148374" y="323.617876" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+            </profile>
+        </glyticket>
+        <glyticket layer="0" color="0" name="36-L" rot_name="-180.000000" num="360" sx="1" iPosArray="5" ModelFolder="C:\CNDD\SBL\1464" TicketName="KS01_360.xge" IdNesting="7" IdPosdNesting="1">
+            <denv>
+                <idCopia val="1" />
+            </denv>
+            <profile size="80" layer="0" color="0" name="36-L" rot_name="-180.000000">
+                <denv>
+                    <LAYER_FILE_DXF val="Blade" />
+                    <LINE_TYPE_DXF val="BYLAYER" />
+                    <IS_CLOSED_POLY val="1" />
+                    <tool_type val="Blade" />
+                    <SBL_TOOL_SELECT val="0" />
+                    <tool_name val="Coltello esterno" />
+                    <ModelFolder val="C:\CNDD\SBL\1464" />
+                    <TICKET_NAME val="KS01_360.xge" />
+                    <TICKET_TAGLIA val="36" />
+                    <VECT_POS_INDEX val="5" />
+                    <ORIG_ANG val="0.6442274910" />
+                    <KEY val="37" />
+                    <PROFILE_COUNTER val="1" />
+                </denv>
+                <p0 x="1137.878575" y="242.714258" z="0.000000" l1="0" l2="0" c="0" />
+                <ebase type="seg" ref="0">
+                    <p2 x="1132.890358" y="240.270375" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1127.744121" y="238.044036" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1122.467074" y="236.066617" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1117.086427" y="234.369493" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1111.629389" y="232.984040" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1106.123170" y="231.941634" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1099.980563" y="231.223905" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1092.515452" y="231.066260" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1078.912972" y="232.358747" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1066.711508" y="232.593072" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1040.718833" y="232.133168" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1000.844314" y="230.395056" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="981.586869" y="229.538389" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="974.863127" y="229.610922" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="969.317891" y="230.158147" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="963.848147" y="231.220258" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="955.110598" y="233.716138" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="947.878988" y="235.739579" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="940.043489" y="236.957255" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="930.941422" y="237.799625" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="913.239690" y="238.489519" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="884.717198" y="239.375159" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="882.642685" y="239.474559" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="882.679006" y="241.981199" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="882.943945" y="257.905004" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="882.947658" y="270.851206" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="908.777016" y="271.169565" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="937.698665" y="271.608044" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="944.817915" y="272.092220" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="951.314287" y="273.130400" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="965.404427" y="276.781929" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="970.359170" y="277.538645" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="977.102122" y="277.879253" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1009.907495" y="277.270814" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1030.712392" y="277.398560" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1044.826488" y="278.070095" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1053.284815" y="279.045437" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1061.144095" y="280.539182" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1067.662771" y="282.638692" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1072.311431" y="284.796370" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1076.870736" y="287.753270" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1081.063975" y="291.390853" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1088.279669" y="298.806037" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1091.805510" y="301.636251" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1094.815607" y="303.584221" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1097.965867" y="305.301666" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1101.225161" y="306.806577" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1104.562362" y="308.116945" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1108.660647" y="309.460143" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1112.834416" y="310.554746" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1117.066617" y="311.404321" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1121.340198" y="312.012430" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1127.073202" y="312.453792" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1134.183049" y="312.395589" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1143.438726" y="311.648194" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1150.283700" y="310.632416" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1157.881304" y="308.918051" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1161.591228" y="307.731699" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1165.192911" y="306.255927" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1167.505808" y="305.083021" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1169.720580" y="303.732306" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1171.802208" y="302.188993" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1173.715676" y="300.438292" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1176.085725" y="297.554037" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1177.910847" y="294.298310" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1179.243671" y="290.291471" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1179.751244" y="287.216601" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1179.857337" y="283.725716" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1179.675115" y="282.029201" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1179.217485" y="280.022311" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1178.277119" y="277.447696" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1177.033061" y="274.995729" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1175.173356" y="272.114795" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1173.121209" y="269.460594" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1170.076964" y="266.084568" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1166.795659" y="262.902134" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1163.402748" y="259.921379" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1155.197916" y="253.479594" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1146.460269" y="247.594754" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+                <ebase type="seg" ref="0">
+                    <p2 x="1137.878575" y="242.714258" z="0.000000" l1="0" l2="0" c="0" />
+                </ebase>
+            </profile>
+        </glyticket>
+    </llp>
+</xdd>
